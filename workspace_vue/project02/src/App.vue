@@ -14,7 +14,9 @@
     <router-link to="/databinding/class">Class</router-link> |
     <router-link to="/databinding/style">Style</router-link><br><br>
     <router-link to="/event/click">Click</router-link> |
-    <router-link to="/event/change">Change</router-link>
+    <router-link to="/event/change">Change</router-link> |
+    <router-link to="/event/key">Key</router-link><br><br>
+    <router-link to="/memolist">Memo</router-link>
   </nav>
   <router-view/>
 </template>
